@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20250103T181150Z - 35461@test-Inspiron-7370
+DTSTART:20250112T155505Z
+DTEND:20250112T185505Z
+ATTENDEE:MAILTO:ahmed.mahfouz@windowslive.com
+CREATED:20250103T181150Z
+DESCRIPTION:Internal meeting for discussion for new pricing for product and
+  services.
+DTSTAMP:20250103T181150Z
+ORGANIZER;CN="YourCompany, Mitchell Admin":MAILTO:ahmed.mahfouz@windowslive
+ .com
+SUMMARY:Pricing Discussion
+END:VEVENT
+END:VCALENDAR
